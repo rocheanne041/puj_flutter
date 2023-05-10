@@ -13,3 +13,8 @@ const String tOnBoardingSubTitle3 =
 const String tOnBoardingCounter1 = "1/3";
 const String tOnBoardingCounter2 = "2/3";
 const String tOnBoardingCounter3 = "3/3";
+
+//WELCOME SCREEN TEXT
+const String tWelcomeTitle = "The Peoples Jeep";
+const String tWelcomeSubTitle =
+    "Ride comfortably in this modern jeepney in Estefania";

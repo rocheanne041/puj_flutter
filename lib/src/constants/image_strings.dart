@@ -8,3 +8,7 @@ const String tOnBoardingImage2 =
     "assets/images/onboarding_images/onboarding2.png";
 const String tOnBoardingImage3 =
     "assets/images/onboarding_images/onboarding3.png";
+
+// -- WELCOME SCREEN IMAGE
+const String tWelcomeScreenImage =
+    "assets/images/welcome_images/welcome_screen.png";
